@@ -12,7 +12,7 @@ AUTOCONNECT_TITLE,Conectar Automáticamente al iniciar
 CONNECTION_ERROR_CLOSE,Cerrar
 CONNECTION_ERROR_HINT,"No se pudo establecer una conexión con Discord.\n\nRevisa tu conexión a internet o reinicia la aplicación, Asegurate de que estés usando el Discord de escritorio."
 CONNECTION_ERROR_TITLE,Error de conexión
-DATA_HINT,Tenga en cuenta que estas acciones no se pueden hacer.
+DATA_HINT,Tenga en cuenta que estas acciones no se pueden deshacer.
 DATA_TITLE,Datos
 DEBUG_HINT,Genera un archivo de registro para la resolución de problemas.
 DEBUG_TITLE,Registro de depuración
