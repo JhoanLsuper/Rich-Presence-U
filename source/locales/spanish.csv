@@ -12,13 +12,13 @@ AUTOCONNECT_TITLE,Conectar Automáticamente al iniciar
 CONNECTION_ERROR_CLOSE,Cerrar
 CONNECTION_ERROR_HINT,"No se pudo establecer una conexión con Discord.\n\nRevisa tu conexión a internet o reinicia la aplicación, Asegurate de que estés usando el Discord de escritorio."
 CONNECTION_ERROR_TITLE,Error de conexión
-DATA_HINT,Tenga en cuenta que estas acciones no se pueden hacer.
+DATA_HINT,Tenga en cuenta que estas acciones no se pueden deshacer.
 DATA_TITLE,Datos
 DEBUG_HINT,Genera un archivo de registro para la resolución de problemas.
 DEBUG_TITLE,Registro de depuración
 DESCRIPTION_HINT,Un texto que se mostrará debajo del título del juego.
 DESCRIPTION_HINT_RECENT,Descripciones recientes
-DESCRIPTION_TITLE,Descripcion
+DESCRIPTION_TITLE,Descripción
 ELAPSED_TIME_TITLE,Mostrar el tiempo transcurrido
 GAME_HINT_CUSTOM,Entrada personalizada. El texto escrito se utilizará como título en su estado.
 GAME_HINT_NONE,No has seleccionado un juego. Solo se mostrará el nombre de la consola.
@@ -34,7 +34,7 @@ MINIMAL_STATUS_HINT,Hace que el ícono del juego sea más pequeño y solo muestr
 MINIMAL_STATUS_TITLE,Estado mínimo
 PARTY_HINT_VISIBILITY,Alternar visibilidad
 PARTY_OF,de
-PARTY_TITLE,Tamaño de sala
+PARTY_TITLE,Tamaño de la sala
 PRESERVE_TIME_HINT,Tu tiempo transcurrido va a reiniciarse al cambiar de juego.
 PRESERVE_TIME_TITLE,Conservar el tiempo transcurrido
 REFRESH_12H,Cada 12 horas
@@ -49,9 +49,9 @@ REFRESHING_INIT,Preparando...\nSolo tomará un momento.
 REFRESHING_STEP_1,Descargando archivos...\nSolo tomará un momento.
 REFRESHING_STEP_2,Descargando archivos...\nYa casi.
 REGION_EU,Europa
-REGION_JP,Japon
+REGION_JP,Japón
 REGION_TITLE,Región preferida
-REGION_US,America
+REGION_US,América
 RENAME_DEFAULT,Por defecto
 RENAME_HINT,Cualquier texto escrito en este campo tendrá prioridad sobre el título de la región especificada.
 RENAME_HINT_INPUT,Título Personalizado
@@ -83,7 +83,7 @@ STATUS_VISIBLITY,Visibilidad de estado
 SYSTEM_CTR,Nintendo 3DS
 SYSTEM_HAC,Nintendo Switch
 SYSTEM_TITLE,Sistema de juego
-SYSTEM_WUP,Wii U
+SYSTEM_WUP,Nintendo Wii U
 TAB_DETAILS,Detalles
 TAB_GAMES,Juegos
 TAB_PLATFORM,Plataformas
